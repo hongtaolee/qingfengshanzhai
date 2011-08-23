@@ -1,0 +1,21 @@
+<% content_for :left do %>
+<img src="/images/update/nav_01.gif" />
+<a href="/comments"><img src="images/update/nav_03.gif" /></a>	
+<% end %>
+
+<img src="/images/mainimg/main_yl.png" border="0" />
+<%=render :partial => "share/float_nav" %>
+
+<p><a href="/">首页</a>&gt;<a href="#">视频</a></p>
+<script type="text/javascript" src="/javascripts/flowplayer-3.2.6.min.js"></script>
+<div class="photos_box" style="padding-left:90px;width:600px;">
+<a  
+	 href="/assets/videos/qfsz.flv"
+	 style="display:block;width:600px;height:400px"  
+	 id="playermax"> 
+</a>
+<script>
+	flowplayer("playermax", "/flowplayer-3.2.7.swf");
+</script>
+</div>
+

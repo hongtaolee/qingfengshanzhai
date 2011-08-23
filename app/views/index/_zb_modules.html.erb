@@ -1,0 +1,8 @@
+<ul>
+	<% @channel.site_channel_modules.each do |scm|%>
+	<li id="scm_<%=m.id %>">
+		<a href="#"><h2><%=scm.name %></h2></a>
+		<p><%=raw scm.content %></p>
+	</li>
+	<% end %>
+</ul>

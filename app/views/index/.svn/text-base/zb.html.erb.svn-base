@@ -1,0 +1,15 @@
+<% content_for :left do %>
+<img src="/images/update/nav_01.gif" />
+<ul>
+ <% @channel.site_channel_modules.each do |m|%>
+ <li class="active"><a href="#scm_<%=m.id %>"><%=m.name%></a></li>
+ <% end %> 
+</ul>
+<a href="/comments"><img src="/images/update/nav_03.gif" /></a>
+<% end %>
+<img src="/images/mainimg/main_zb.png" border="0" />
+<%=render :partial => "share/float_nav" %>
+<p><a href="/">首页</a>><a href="#"><%=@channel.name %></a></p>
+<div class="product">
+	<%=render :partial => "zbfj" %>
+</div>
