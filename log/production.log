@@ -1,0 +1,37 @@
+
+
+Started GET "/" for 123.139.14.108 at Tue Sep 06 16:47:51 +0800 2011
+  Processing by IndexController#index as HTML
+Rendered share/_float_nav.html.erb (0.2ms)
+Rendered index/index.html.erb within layouts/application (225.7ms)
+Completed 200 OK in 283ms (Views: 154.2ms | ActiveRecord: 75.8ms)
+
+
+Started GET "/yl" for 123.139.14.108 at Tue Sep 06 16:48:05 +0800 2011
+  Processing by IndexController#yl as HTML
+Rendered share/_float_nav.html.erb (0.1ms)
+Rendered index/yl.html.erb within layouts/application (56.1ms)
+Completed 200 OK in 59ms (Views: 55.9ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/yl" for 123.139.14.108 at Tue Sep 06 16:48:05 +0800 2011
+  Processing by IndexController#yl as HTML
+Rendered share/_float_nav.html.erb (0.1ms)
+Rendered index/yl.html.erb within layouts/application (49.4ms)
+Completed 200 OK in 51ms (Views: 49.3ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/pages/1" for 123.139.14.108 at Tue Sep 06 16:48:14 +0800 2011
+  Processing by PagesController#show as HTML
+  Parameters: {"id"=>"1"}
+Rendered share/_float_nav.html.erb (0.0ms)
+Rendered pages/show.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 95ms (Views: 4.9ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/zb" for 123.139.14.108 at Tue Sep 06 16:48:19 +0800 2011
+  Processing by IndexController#zb as HTML
+Rendered share/_float_nav.html.erb (0.0ms)
+Rendered index/_zbfj.html.erb (0.6ms)
+Rendered index/zb.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 8ms (Views: 5.7ms | ActiveRecord: 0.6ms)
