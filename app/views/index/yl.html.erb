@@ -1,18 +1,18 @@
 <% content_for :left do %>
-<img src="/images/update/nav_01.gif" />
+<img src="/images/update/nav_01.gif" alt="西安农家乐的栏目分类信息" />
 <ul>
- <li class="active"><a href="#scm_picture">客房照片</a></li> 
+ <li class="active"><a href="/yl">客房照片</a></li> 
  <% @channel.site_channel_modules.each do |m| %>
- <li><a href="#scm_<%=m.id %>"><%=m.name %></a></li>
+ <li><%=m.name %></li>
  <% end %>
 </ul>
-<a href="/comments"><img src="images/update/nav_03.gif" /></a>	
+<a href="/comments"><img src="images/update/nav_03.gif" alt="点击进入西安清风山寨农家乐的留言板信息" /></a>	
 <% end %>
 
 <img src="/images/mainimg/main_yl.png" border="0" />
 <%=render :partial => "share/float_nav" %>
 
-<p><a href="/">首页</a>&gt;<a href="#"><%=@channel.name %></a></p>
+<p><a href="/">首页</a>&gt;<a href="/yl"><%=@channel.name %></a></p>
 <div class="photos_box">
 <script type="text/javascript" src="/javascripts/jquery-1.4.3.min.js"></script>
 <script type="text/javascript" src="/javascripts/jquery.pikachoose.full.js"></script>

@@ -12,7 +12,7 @@ development:
   database: dnj2
   pool: 5
   username: root
-  password: chinaren
+  password: 
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
@@ -34,7 +34,7 @@ production:
   database: dnj2
   pool: 5
   username: root
-  password: chinaren
+  password: 
 
 cucumber:
   <<: *test

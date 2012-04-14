@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<%= display_meta_tags :site => '西安周边农家乐－汤峪清风山寨' , :separator => "-", :reverse => false %>
+	<%= display_meta_tags :site => '西安农家乐－汤峪清风山寨' , :separator => "-", :reverse => false %>
   <%= stylesheet_link_tag :all %>
   <%= javascript_include_tag 'jquery-1.4.3.min.js' %>
   <%= javascript_include_tag 'rails' %>
@@ -16,13 +16,13 @@
 
 <body>
 <div class="wrapper">
-	<div id="header"><a href="/"><img src="/images/temp/logo.gif" /></a>
+	<div id="header"><a href="http://www.qingfengshanzhai.com"><img src="/images/temp/logo.gif" alt="西安农家乐-清风山寨的logo" /></a>
 		<div class="header_nav">
-			<a href="/" class="nav_01<%=' active png' if @nav == 'index'%>">首页</a>
-			<a href="/yl" class="nav_02<%=' active png' if @nav == 'yl'%>">娱乐项目</a>
-			<a href="/ms" class="nav_03<%=' active png' if @nav == 'ms'%>">特色美食</a>
-			<a href="/zb" class="nav_04<%=' active png' if @nav == 'zb'%>">周边风景</a>
-			<a href="/blogs" class="nav_05<%=' active png' if @nav == 'blogs'%>">山寨动态</a>
+			<a href="http://www.qingfengshanzhai.com" class="nav_01<%=' active png' if @nav == 'index'%>">首页</a>
+			<a href="http://www.qingfengshanzhai.com/yl" class="nav_02<%=' active png' if @nav == 'yl'%>">娱乐项目</a>
+			<a href="http://www.qingfengshanzhai.com/ms" class="nav_03<%=' active png' if @nav == 'ms'%>">特色美食</a>
+			<a href="http://www.qingfengshanzhai.com/zb" class="nav_04<%=' active png' if @nav == 'zb'%>">周边风景</a>
+			<a href="http://www.qingfengshanzhai.com/blogs" class="nav_05<%=' active png' if @nav == 'blogs'%>">山寨动态</a>
 		</div>
 	</div><!-- header -->
   <div id="main">
@@ -35,12 +35,13 @@
   </div>
 	<div id="footer">
 		<img src="/images/update/footer.gif" />
-		<a href="/" class="foot_logo"><img src="/images/temp/foot_logo.gif" /></a>
+		<a href="http://www.qingfengshanzhai.com" class="foot_logo"><img src="/images/temp/foot_logo.gif" alt="清风山寨-西安农家乐" /></a>
 		<p>
 			<% SiteLink.all.each do |sl| %>
 			<a href="<%=sl.url %>"><%=sl.title %></a>/
 			<% end %>
-			<a href="http://www.danongjia.com/">大农家网</a>
+			<a href="http://www.danongjia.com/">大农家网</a>/
+			<a href="http://www.qingfengshanzhai.com">西安农家乐</a>
 			<br />
 			Copyright © 2010 QingFengShanZhai.com&nbsp;&nbsp;京ICP备09082708号-2
 		</p>

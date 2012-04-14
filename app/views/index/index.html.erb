@@ -6,27 +6,27 @@
 	 style="display:block;width:210px;height:150px"  
 	 id="player"> 
 </a>
-<a class="video_links" href="/video" title="">山寨精彩视频&gt;&gt;</a>
+<a class="video_links" href="/video" >山寨精彩视频&gt;&gt;</a>
 <script>
 	flowplayer("player", "/flowplayer-3.2.7.swf");
 </script>
 
-<a href="/comments" title="" class="comments_links"></a>
+<a href="/comments" title="点击进入西安清风山寨农家乐的留言板" class="comments_links"></a>
 
 </div>
 <% end %>
 
-<img src="/images/mainimg/main_index.png" border="0" />
+<img src="/images/mainimg/main_index.png" border="0" alt="西安清风山寨风情度假村-西安农家乐" />
 <%=render :partial => "share/float_nav" %>
 <div class="news_list">
-	<h1 style="height:34px;"><a href="/blogs"><img src="/images/update/index_12.gif" /></a></h1>
+	<h1 style="height:34px;"><a href="/blogs"><img src="/images/update/index_12.gif" alt="西安农家乐-清风山寨的最新动态" /></a></h1>
 	<ul style="height:106px;">
 		<% @blogs.each do |b|%>
-		<li><a href="/blogs/<%=b.id %>">·<%=b.title %></a><span><%=b.created_at.strftime("%Y.%m.%d")%></span></li>
+		<li><a href="/blogs/<%=b.id %>" title="西安农家乐的最新山寨动态-<%=b.title %>">·<%=b.title %></a><span><%=b.created_at.strftime("%Y.%m.%d")%></span></li>
 		<% end %>
 	</ul>
 	<div class="photos_list">
-		<h1><a href="/yl"><img src="/images/update/index_18.gif" /></a></h1>
+		<h1><a href="/yl"><img src="/images/update/index_18.gif" alt="清风山寨的合影留念照片-西安农家乐" /></a></h1>
 		<div class="photos_all">
 			<a href="/"><img src="/images/icons/icons_01.gif" class="photos_img" /></a>
 			<ol>
@@ -46,9 +46,9 @@
 	
 <div class="photos">
 	<div class="photos_index">
-		<span><img src="/images/update/index_09.gif" /></span>
-		<h1><img src="/images/update/index_14.gif" /></h1>
-		<h3>秦岭深处的独立宁静独家空间，山环水绕，清新自然<a href="/zb"><img src="/images/icons/icons_03.gif" /></a></h3></p>
+		<span><img src="/images/update/index_09.gif" alt="在西安清风山寨农家乐游玩时的合影留念" /></span>
+		<h1><img src="/images/update/index_14.gif" alt="西安农家乐娱乐项目‘密林乐翻天’" /></h1>
+		<h3>秦岭深处的独立宁静独家空间，山环水绕，清新自然<a href="/zb" title="更多有关西安农家乐周边的风景展示"><img src="/images/icons/icons_03.gif" /></a></h3></p>
 	</div>
-	<img src="/images/update/index_20.gif" />
+	<img src="/images/update/index_20.gif" alt="西安农家乐的周边景点"/>
 </div>

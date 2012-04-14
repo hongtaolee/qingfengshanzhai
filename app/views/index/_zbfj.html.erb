@@ -3,19 +3,19 @@
 			<% @channel.site_channel_modules.each_with_index do |m,i|%>
 			<% if i == 0 %>
 		  <li><img src="/images/update/fj_03.png" />
-		  <a href="#"><h2><%=m.name %></h2></a>
+		  <h2><%=m.name %></h2>
 			  <%=raw m.content %>
 		  </li>
 			<% elsif i == 1 %>
 		  <li>
-			  <a href="#"><h2><%=m.name %></h2></a>
+			  <h2><%=m.name %></h2>
 			  <%=raw m.content %>
 			  <img src="/images/update/fj_07.png" />
 			</li>
 		  <% elsif i == 2 %>
 			<li>
 				<img src="/images/update/fj_10.png" />
-		  	<a href="#"><h2><%=m.name %></h2></a>
+		  	<h2><%=m.name %></h2>
 			  <%=raw m.content %>
 		  </li>
 			<% end %>

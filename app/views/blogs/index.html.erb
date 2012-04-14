@@ -2,7 +2,7 @@
 <img src="/images/update/nav_01.gif" />
 <ul>
  <% @categories.each do |c|%>
- <li class="<%='active' if @category && @category.id == c.id %>"><a href="/blogs/category/<%=c.id %>"><%=c.name %></a></li> 
+ <li class="<%='active' if @category && @category.id == c.id %>"><a href="/blogs"><%=c.name %></a></li> 
  <% end %>
 </ul>
 <a href="/comments"><img src="/images/update/nav_03.gif" /></a>
@@ -11,7 +11,7 @@
 <img src="/images/mainimg/main_dt.png" border="0" />
 	<%=render :partial => "share/float_nav" %>
 
-  <p><a href="/">首页</a>><a href="#">新闻动态</a></p>
+  <p><a href="/">首页</a>><a href="/blogs">山寨动态</a></p>
   <div class="blog_list">
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
 			  <tr>
@@ -25,7 +25,7 @@
 				</tr>
 				<% @blogs.each do |blog|%>
 			  <tr>
-					<td width="64%" class="line"><a href="/blogs/<%=blog.id %>"><%=blog.title %></a></td>
+					<td width="64%" class="line"><a href="/blogs/<%=blog.id %>" title="有关西安农家乐的详细新闻信息<%=blog.title %>"><%=blog.title %></a></td>
 					<td width="16%" class="line"><%=blog.editor.username %></td>
 					<td width="20%" class="line"><%=blog.created_at.strftime("%Y-%m-%d")%></td>
 			  </tr>
