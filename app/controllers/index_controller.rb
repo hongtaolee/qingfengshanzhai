@@ -5,8 +5,8 @@ class IndexController < ApplicationController
     @blogs = SiteBlog.order("id desc").limit(4)
     @pictures = SiteChannel.find(1).site_pictures.order("id desc").limit(4)
   	@page_title = "首页"
-  	@page_description = "西安农家乐"
-  	@page_keywords = "清风山寨位于西安蓝田汤峪，环境优美，自然和谐，这里空气清新,山寨里面设有各种拓展娱乐，集浪漫休闲，拓展训练于一体。西安农家乐-清风山寨，欢迎您的到来。电话：13289844508"  
+  	@page_description = "清风山寨位于西安蓝田汤峪，环境优美，自然和谐，这里空气清新,山寨里面设有各种拓展娱乐，集浪漫休闲，拓展训练于一体。西安农家乐-清风山寨，欢迎您的到来。电话：13289844508。"
+  	@page_keywords = "西安农家乐"  
   end
   
   def yl
