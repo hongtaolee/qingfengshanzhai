@@ -26,7 +26,7 @@
 				<% @blogs.each do |blog|%>
 			  <tr>
 					<td width="64%" class="line"><a href="/blogs/<%=blog.id %>" title="有关西安农家乐的详细新闻信息<%=blog.title %>"><%=blog.title %></a></td>
-					<td width="16%" class="line"><%=blog.editor.username %></td>
+					<td width="16%" class="line"><%=blog.site.user.username %></td>
 					<td width="20%" class="line"><%=blog.created_at.strftime("%Y-%m-%d")%></td>
 			  </tr>
 				<% end %>
