@@ -7,4 +7,6 @@ class Site < ActiveRecord::Base
   has_many :site_blogs
   has_many :site_pictures
   has_many :site_comments, :order => "id desc"
+  
+  belongs_to :user
 end
