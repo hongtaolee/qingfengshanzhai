@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<title>西安农家乐－汤峪清风山寨 - 行车路线</title>
+<meta content="行车路线" name="description" />
+<meta content="行车路线" name="keywords" />
+  <link href="../stylesheets/main.css?1334399387" media="screen" rel="stylesheet" type="text/css" />
+  <script src="../javascripts/jquery-1.4.3.min.js?1315743639" type="text/javascript"></script>
+  <script src="../javascripts/rails.js?1315743639" type="text/javascript"></script>
+	<!--[if lte IE 6]>
+      <script type="text/javascript" src="js/DD_belatedPNG-min.js"></script>
+      <script type="text/javascript">
+          DD_belatedPNG.fix('.png, img');
+      </script>
+  <![endif]-->
+</head>
+
+<body>
+<div class="wrapper">
+	<div id="header"><a href="../index.html"><img src="../images/temp/logo.gif" alt="西安农家乐-清风山寨的logo" /></a>
+		<div class="header_nav">
+			<a href="../index.html" class="nav_01">首页</a>
+			<a href="../yl" class="nav_02">娱乐项目</a>
+			<a href="../ms" class="nav_03">特色美食</a>
+			<a href="../zb" class="nav_04">周边风景</a>
+			<a href="../blogs" class="nav_05">山寨动态</a>
+		</div>
+	</div><!-- header -->
+  <div id="main">
+	  <div class="left">
+			<img src="../images/update/nav_01.gif" />
+<ul>
+ <li class=""><a href="1">关于我们</a></li> 
+ <li class="active"><a href="2">行车路线</a></li> 
+ <li class=""><a href="3">温馨提示</a></li> 
+ <li class=""><a href="4">山寨简介</a></li> 
+</ul>
+<a href="../comments"><img src="../images/update/nav_03.gif" /></a>
+
+		</div>
+		<div class="content index_content">
+			
+<img src="../images/mainimg/main_jjie.png" border="0" />
+<div class="min_nav png">
+	<a href="../comments" title="给我留言"></a>
+  <a href="1" title="西安清风山寨农家乐的简介"></a>
+  <a href="2" title="来西安农家乐的行车路线"></a>
+  <a href="3" title="西安农家乐提供的一些温馨提示"></a>	
+</div>
+
+<p><a href="../index.html">西安农家乐</a>><a href="2#">行车路线</a></p>
+<div class="article">
+	<p><span style="font-size: 16px;"><strong>一、自驾路线</strong></span></p>
+<p>&nbsp;</p>
+<p><img width="586" height="507" alt="西安农家乐的自驾路线" src="../uploads/Image/20110508/7cf4be8048f8c952a7398ab08123f75f.jpg" /></p>
+<p><img width="356" height="536" alt="" src="../uploads/Image/20110508/735e56a13810d3569de6be7109675e12.jpg" /></p>
+<p><img width="346" height="276" alt="" src="../uploads/Image/20110508/b3a8b9a5d0d93553b98c90d61966aeb4.jpg" /></p>
+<p>&nbsp;</p>
+<p><span style="font-size: 16px;"><strong>二、公交车路线</strong></span></p>
+<p>&nbsp;</p>
+<p><img width="561" height="499" alt="西安农家乐的公交车路线" src="../uploads/Image/20110508/923a857093ce2153a9d5972aadc00723.jpg" /></p>
+<p><img width="354" height="462" alt="" src="../uploads/Image/20110508/ce13c171e41db85794fced7265a501d1.jpg" /></p>
+<p>&nbsp;</p>
+<p>清风山寨-<a href="../index.html">西安农家乐</a>最好品牌，欢迎您的到来，如果有什么问题，可以随时电话咨询：<span style="color: rgb(255, 0, 0);"><span style="font-size: 16px;">13289844508</span></span></p>
+<p>&nbsp;</p>
+</div>
+
+		</div>
+  </div>
+	<div id="footer">
+		<img src="../images/update/footer.gif" />
+		<a href="../index.html" class="foot_logo"><img src="../images/temp/foot_logo.gif" alt="清风山寨-西安农家乐" /></a>
+		<p>
+			<a href="1">关于我们</a>/
+			<a href="2">行车路线</a>/
+			<a href="http://new.cnzz.com/v1/login.php?siteid=3077199">站点统计</a>/
+			<a href="http://www.9uxa.com">西安旅游</a>/
+			<a href="http://www.danongjia.com/">大农家网</a>/
+			<a href="../index.html">西安农家乐</a>
+			<br />
+			Copyright © 2010 QingFengShanZhai.com&nbsp;&nbsp;京ICP备09082708号-2
+		</p>
+	</div>
+	<div style="display:none;">
+<script src="http://s21.cnzz.com/stat.php?id=3077199&web_id=3077199" language="JavaScript"></script>		
+	</div>
+</div>
+<script type="text/javascript" charset="utf-8">
+jQuery(document).ready(function($){ 
+	$(".qq_main").hide();
+	$(".show_qq").hover(function(){
+		$(".show_qq").hide();
+		$(".qq_main").show();
+	});
+	$("div.qq_main").hover(function(){
+		$(".show_qq").hide();
+		$(".qq_main").show();
+	},function(){
+		$(this).hide();
+		$(".show_qq").show();
+	});
+});		
+</script>
+<div class="qq_all">
+	<div class="show_qq"><img src="http://www.qingfengshanzhai.com/pages/images/icons/qq_1.png" /></div>
+	<div class="qq_main">
+		<div class="qq_top"></div>
+		<div class="qq_content">
+			<h2>在线客服</h2>
+			<ul>
+				<li><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=309407890&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:309407890:45" alt="点击这里给我发消息" title="点击这里给我发消息">在线咨询</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<title>西安农家乐－汤峪清风山寨 - 娱乐项目</title>
+<meta content="娱乐项目" name="description" />
+<meta content="娱乐项目" name="keywords" />
+  <link href="stylesheets/main.css?1334399387" media="screen" rel="stylesheet" type="text/css" />
+  <script src="javascripts/jquery-1.4.3.min.js?1315743639" type="text/javascript"></script>
+  <script src="javascripts/rails.js?1315743639" type="text/javascript"></script>
+	<!--[if lte IE 6]>
+      <script type="text/javascript" src="js/DD_belatedPNG-min.js"></script>
+      <script type="text/javascript">
+          DD_belatedPNG.fix('.png, img');
+      </script>
+  <![endif]-->
+</head>
+
+<body>
+<div class="wrapper">
+	<div id="header"><a href="index.html"><img src="images/temp/logo.gif" alt="西安农家乐-清风山寨的logo" /></a>
+		<div class="header_nav">
+			<a href="index.html" class="nav_01">首页</a>
+			<a href="yl" class="nav_02 active png">娱乐项目</a>
+			<a href="ms" class="nav_03">特色美食</a>
+			<a href="zb" class="nav_04">周边风景</a>
+			<a href="blogs" class="nav_05">山寨动态</a>
+		</div>
+	</div><!-- header -->
+  <div id="main">
+	  <div class="left">
+			<img src="images/update/nav_01.gif" alt="西安农家乐的栏目分类信息" />
+<ul>
+ <li class="active"><a href="yl">客房照片</a></li> 
+ <li>项目介绍</li>
+</ul>
+<a href="comments"><img src="images/update/nav_03.gif" alt="点击进入西安清风山寨农家乐的留言板信息" /></a>	
+
+		</div>
+		<div class="content index_content">
+			
+<img src="images/mainimg/main_yl.png" border="0" />
+<div class="min_nav png">
+	<a href="comments" title="给我留言"></a>
+  <a href="pages/1" title="西安清风山寨农家乐的简介"></a>
+  <a href="pages/2" title="来西安农家乐的行车路线"></a>
+  <a href="pages/3" title="西安农家乐提供的一些温馨提示"></a>	
+</div>
+
+<p><a href="index.html">西安农家乐</a>&gt;<a href="yl">娱乐项目</a></p>
+<div class="photos_box">
+<script type="text/javascript" src="javascripts/jquery-1.4.3.min.js"></script>
+<script type="text/javascript" src="javascripts/jquery.pikachoose.full.js"></script>
+		<script language="javascript">
+			$(document).ready(function (){
+					$("#pikame").PikaChoose({carousel:true, carouselVertical:true});
+				});
+		</script>
+<div class="pikachoose">
+	<ul id="pikame" class="jcarousel-skin-pika">
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/96.jpg?1313317530" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/95.jpg?1313317437" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/94.jpg?1313317401" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/93.jpg?1313317332" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/92.jpg?1313317287" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/91.jpg?1313317229" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/90.jpg?1313317194" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/89.jpg?1313317155" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/88.jpg?1313317109" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/87.jpg?1313317039" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/86.jpg?1313316930" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/85.jpg?1313316883" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/84.jpg?1313316836" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/83.jpg?1313316770" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/82.jpg?1313316704" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/81.jpg?1313316657" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/80.jpg?1313316605" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/79.jpg?1313316506" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/78.jpg?1313316420" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/77.jpg?1313316378" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/76.jpg?1313316334" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/75.jpg?1313316296" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/74.jpg?1313316250" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/73.jpg?1313316196" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/72.jpg?1313316140" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/71.jpg?1313316099" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/70.jpg?1313316053" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/69.jpg?1313315985" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/68.jpg?1313315832" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/67.jpg?1312377914" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/66.jpg?1312377882" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/65.jpg?1312377844" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/64.jpg?1312377807" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/63.jpg?1312377685" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/62.jpg?1312377646" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/61.jpg?1312377609" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/60.jpg?1312377571" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/59.jpg?1312377533" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/58.jpg?1312377438" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/57.jpg?1312377401" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/56.jpg?1312377328" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/55.jpg?1312377292" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/50.jpg?1311942330" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/49.jpg?1311942281" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/48.jpg?1311942226" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/47.jpg?1311942180" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/46.jpg?1311942141" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/45.jpg?1311942091" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/44.jpg?1311942056" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/43.jpg?1311942022" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/42.jpg?1311941991" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/41.jpg?1311941898" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/40.jpg?1311941821" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/39.jpg?1311941782" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/38.jpg?1311941721" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/37.jpg?1311941676" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/36.jpg?1311941620" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/35.jpg?1311941581" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/34.jpg?1311941515" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/33.jpg?1306634081" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/32.jpg?1306633938" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/31.jpg?1306633796" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/30.jpg?1306633717" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/29.jpg?1306633610" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/28.jpg?1306633454" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/27.jpg?1306633257" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/26.jpg?1306633145" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/25.jpg?1306633024" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/24.jpg?1306632808" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/22.jpg?1306632199" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/21.jpg?1306632005" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/20.jpg?1306631808" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/19.jpg?1306631716" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/18.JPG?1306629688" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/17.JPG?1306628193" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/16.jpg?1305536427" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/10.jpg?1304074940" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/9.jpg?1304074920" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/8.jpg?1304074898" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/6.jpg?1304074883" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/5.jpg?1304074726" width="500" height="320"/></a></li>
+		<li><a href="yl#"><img src="assets/site_pictures/pics/big/4.jpg?1304074696" width="500" height="320"/></a></li>
+	</ul>
+</div>
+</div>
+
+<div class="photos_box" id="scm_1">
+	<p>清风山寨的20个特色刺激好玩儿的项目，全部是一票制游玩。</p>
+</div>
+
+
+		</div>
+  </div>
+	<div id="footer">
+		<img src="images/update/footer.gif" />
+		<a href="index.html" class="foot_logo"><img src="images/temp/foot_logo.gif" alt="清风山寨-西安农家乐" /></a>
+		<p>
+			<a href="pages/1">关于我们</a>/
+			<a href="pages/2">行车路线</a>/
+			<a href="http://new.cnzz.com/v1/login.php?siteid=3077199">站点统计</a>/
+			<a href="http://www.9uxa.com">西安旅游</a>/
+			<a href="http://www.danongjia.com/">大农家网</a>/
+			<a href="index.html">西安农家乐</a>
+			<br />
+			Copyright © 2010 QingFengShanZhai.com&nbsp;&nbsp;京ICP备09082708号-2
+		</p>
+	</div>
+	<div style="display:none;">
+<script src="http://s21.cnzz.com/stat.php?id=3077199&web_id=3077199" language="JavaScript"></script>		
+	</div>
+</div>
+<script type="text/javascript" charset="utf-8">
+jQuery(document).ready(function($){ 
+	$(".qq_main").hide();
+	$(".show_qq").hover(function(){
+		$(".show_qq").hide();
+		$(".qq_main").show();
+	});
+	$("div.qq_main").hover(function(){
+		$(".show_qq").hide();
+		$(".qq_main").show();
+	},function(){
+		$(this).hide();
+		$(".show_qq").show();
+	});
+});		
+</script>
+<div class="qq_all">
+	<div class="show_qq"><img src="images/icons/qq_1.png" /></div>
+	<div class="qq_main">
+		<div class="qq_top"></div>
+		<div class="qq_content">
+			<h2>在线客服</h2>
+			<ul>
+				<li><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=309407890&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:309407890:45" alt="点击这里给我发消息" title="点击这里给我发消息">在线咨询</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+</body>
+</html>
