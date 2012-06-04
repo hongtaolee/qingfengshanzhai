@@ -1,3 +1,4 @@
+#endcoding: utf-8
 class CommentsController < ApplicationController
   def index
     @comments = @site.site_comments

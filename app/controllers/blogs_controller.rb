@@ -1,3 +1,4 @@
+#endcoding: utf-8
 class BlogsController < ApplicationController
   def index
     @nav = "blogs"

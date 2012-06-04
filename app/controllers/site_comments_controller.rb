@@ -1,3 +1,4 @@
+#endcoding: utf-8
 class SiteCommentsController < ApplicationController
 
   def create

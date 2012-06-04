@@ -1,3 +1,4 @@
+#endcoding: utf-8
 class SiteChannel < ActiveRecord::Base
   default_scope :conditions => ["deleted_at is null"]
     
