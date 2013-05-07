@@ -15,14 +15,15 @@ h1,h2{ font-family:"微软雅黑","宋体";}
 
 /* header */
 #header,#header img{ float:left;}
-.header_nav{ float:left; width:603px;padding:26px 130px 0px 60px;background:url(/images/update/nav_back.gif) no-repeat left top;height:73px;overflow:hidden;}
-.header_nav a{ height:40px; float:left; display:block;line-height:40px;text-align:center;font-size:14px;color:#4b3019;}
+.header_nav{ float:left; width:603px;padding:26px 130px 0px 60px;background:url(/images/update/nav_back.jpg) no-repeat left top;height:73px;overflow:hidden;}
+.header_nav a{ height:40px; float:left; display:block;line-height:40px;text-align:center;font-size:14px;color:#4b3019;width:100px;background:url('/images/update/nav_border.jpg') no-repeat 0px 50%;}
+.header_nav a.nav_01{background:none;}
 .header_nav a.active{background:url(/images/update/nav_active.png) no-repeat 50% top;color:#fff;}
-.nav_01 { width:103px;}
+/*.nav_01 { width:103px;}
 .nav_02 {width:117px}
 .nav_03 {width:141px;}
 .nav_04 { width:134px;}
-.nav_05 {width:108px;}
+.nav_05 {width:108px;}*/
 
 
 /*min_nav*/
