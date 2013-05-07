@@ -17,6 +17,7 @@ Qfsz::Application.routes.draw do
   match 'yl' => 'index#yl'
   match 'ms' => 'index#ms'
   match 'zb' => 'index#zb'
+  match 'zs' => 'index#zs'  
   match 'video' => 'index#video'  
   # Keep in mind you can assign values other than :controller and :action
 

@@ -39,6 +39,17 @@ class IndexController < ApplicationController
   	@page_keywords = "周边风景"    
   end
   
+  def zs
+    @nav = 'zs'
+    @channel = SiteChannel.find(4)
+
+  	@page_title = "温馨住宿"
+  	@page_description = "温馨住宿"
+  	@page_keywords = "温馨住宿"    
+    
+    render :action => "yl"
+  end
+    
   def video
     @nav = 'video'
     
